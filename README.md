@@ -1,4 +1,4 @@
-How To Build and Test gym.pencilcode.net
+How To Build and Test newgym.pencilcode.net
 ========================================
 First install the prerequisites: git and nodejs (see "prequisites"
 below if you don't yet have them.)
@@ -6,8 +6,8 @@ below if you don't yet have them.)
 Then just do this:
 
 <pre>
-git clone https://github.com/PencilCode/codegym.git
-cd codegym
+git clone https://github.com/PencilCode/newgym.git
+cd newgym
 npm install
 npm run devserver
 </pre>
