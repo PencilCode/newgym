@@ -18,5 +18,5 @@ that color.
 A turtle can also wear an image.
 Just wear the full URL of the image, in quotes:
 
-<code class="jumbo" data-after="fd 100; rt 360">wear <span data-dfn="color">"http:&#47;/gym.pencilcode.net/images/brain.png"</span></code>
+<code class="jumbo" data-after="fd 100; rt 360">wear <span data-dfn="color">"/img/dog"</span></code>
 
